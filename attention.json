@@ -1,0 +1,422 @@
+[
+    {
+        "__index": 0,
+        "subject": 1,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 2.0
+    },
+    {
+        "__index": 1,
+        "subject": 2,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 3.0
+    },
+    {
+        "__index": 2,
+        "subject": 3,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 3.0
+    },
+    {
+        "__index": 3,
+        "subject": 4,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 5.0
+    },
+    {
+        "__index": 4,
+        "subject": 5,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 4.0
+    },
+    {
+        "__index": 5,
+        "subject": 6,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 5.0
+    },
+    {
+        "__index": 6,
+        "subject": 7,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 5.0
+    },
+    {
+        "__index": 7,
+        "subject": 8,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 5.0
+    },
+    {
+        "__index": 8,
+        "subject": 9,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 2.0
+    },
+    {
+        "__index": 9,
+        "subject": 10,
+        "attention": "divided",
+        "solutions": 1,
+        "score": 6.0
+    },
+    {
+        "__index": 10,
+        "subject": 11,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 6.0
+    },
+    {
+        "__index": 11,
+        "subject": 12,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 8.0
+    },
+    {
+        "__index": 12,
+        "subject": 13,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 6.0
+    },
+    {
+        "__index": 13,
+        "subject": 14,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 8.0
+    },
+    {
+        "__index": 14,
+        "subject": 15,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 8.0
+    },
+    {
+        "__index": 15,
+        "subject": 16,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 6.0
+    },
+    {
+        "__index": 16,
+        "subject": 17,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 7.0
+    },
+    {
+        "__index": 17,
+        "subject": 18,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 7.0
+    },
+    {
+        "__index": 18,
+        "subject": 19,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 5.0
+    },
+    {
+        "__index": 19,
+        "subject": 20,
+        "attention": "focused",
+        "solutions": 1,
+        "score": 6.0
+    },
+    {
+        "__index": 20,
+        "subject": 1,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 4.0
+    },
+    {
+        "__index": 21,
+        "subject": 2,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 4.0
+    },
+    {
+        "__index": 22,
+        "subject": 3,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 5.0
+    },
+    {
+        "__index": 23,
+        "subject": 4,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 7.0
+    },
+    {
+        "__index": 24,
+        "subject": 5,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 5.0
+    },
+    {
+        "__index": 25,
+        "subject": 6,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 5.0
+    },
+    {
+        "__index": 26,
+        "subject": 7,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 4.5
+    },
+    {
+        "__index": 27,
+        "subject": 8,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 7.0
+    },
+    {
+        "__index": 28,
+        "subject": 9,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 3.0
+    },
+    {
+        "__index": 29,
+        "subject": 10,
+        "attention": "divided",
+        "solutions": 2,
+        "score": 5.0
+    },
+    {
+        "__index": 30,
+        "subject": 11,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 5.0
+    },
+    {
+        "__index": 31,
+        "subject": 12,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 9.0
+    },
+    {
+        "__index": 32,
+        "subject": 13,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 5.0
+    },
+    {
+        "__index": 33,
+        "subject": 14,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 8.0
+    },
+    {
+        "__index": 34,
+        "subject": 15,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 8.0
+    },
+    {
+        "__index": 35,
+        "subject": 16,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 8.0
+    },
+    {
+        "__index": 36,
+        "subject": 17,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 7.0
+    },
+    {
+        "__index": 37,
+        "subject": 18,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 8.0
+    },
+    {
+        "__index": 38,
+        "subject": 19,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 6.0
+    },
+    {
+        "__index": 39,
+        "subject": 20,
+        "attention": "focused",
+        "solutions": 2,
+        "score": 6.0
+    },
+    {
+        "__index": 40,
+        "subject": 1,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 7.0
+    },
+    {
+        "__index": 41,
+        "subject": 2,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 5.0
+    },
+    {
+        "__index": 42,
+        "subject": 3,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 6.0
+    },
+    {
+        "__index": 43,
+        "subject": 4,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 5.0
+    },
+    {
+        "__index": 44,
+        "subject": 5,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 8.0
+    },
+    {
+        "__index": 45,
+        "subject": 6,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 6.0
+    },
+    {
+        "__index": 46,
+        "subject": 7,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 6.0
+    },
+    {
+        "__index": 47,
+        "subject": 8,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 8.0
+    },
+    {
+        "__index": 48,
+        "subject": 9,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 7.0
+    },
+    {
+        "__index": 49,
+        "subject": 10,
+        "attention": "divided",
+        "solutions": 3,
+        "score": 6.0
+    },
+    {
+        "__index": 50,
+        "subject": 11,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 6.0
+    },
+    {
+        "__index": 51,
+        "subject": 12,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 8.0
+    },
+    {
+        "__index": 52,
+        "subject": 13,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 9.0
+    },
+    {
+        "__index": 53,
+        "subject": 14,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 7.0
+    },
+    {
+        "__index": 54,
+        "subject": 15,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 7.0
+    },
+    {
+        "__index": 55,
+        "subject": 16,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 7.0
+    },
+    {
+        "__index": 56,
+        "subject": 17,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 6.0
+    },
+    {
+        "__index": 57,
+        "subject": 18,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 6.0
+    },
+    {
+        "__index": 58,
+        "subject": 19,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 6.0
+    },
+    {
+        "__index": 59,
+        "subject": 20,
+        "attention": "focused",
+        "solutions": 3,
+        "score": 5.0
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "subidr": 1,
+        "attnr": "divided",
+        "num1": 2,
+        "num2": 4,
+        "num3": 7
+    },
+    {
+        "subidr": 2,
+        "attnr": "divided",
+        "num1": 3,
+        "num2": 4,
+        "num3": 5
+    },
+    {
+        "subidr": 3,
+        "attnr": "divided",
+        "num1": 3,
+        "num2": 5,
+        "num3": 6
+    },
+    {
+        "subidr": 4,
+        "attnr": "divided",
+        "num1": 5,
+        "num2": 7,
+        "num3": 5
+    },
+    {
+        "subidr": 5,
+        "attnr": "divided",
+        "num1": 4,
+        "num2": 5,
+        "num3": 8
+    },
+    {
+        "subidr": 6,
+        "attnr": "divided",
+        "num1": 5,
+        "num2": 5,
+        "num3": 6
+    },
+    {
+        "subidr": 7,
+        "attnr": "divided",
+        "num1": 5,
+        "num2": 4.5,
+        "num3": 6
+    },
+    {
+        "subidr": 8,
+        "attnr": "divided",
+        "num1": 5,
+        "num2": 7,
+        "num3": 8
+    },
+    {
+        "subidr": 9,
+        "attnr": "divided",
+        "num1": 2,
+        "num2": 3,
+        "num3": 7
+    },
+    {
+        "subidr": 10,
+        "attnr": "divided",
+        "num1": 6,
+        "num2": 5,
+        "num3": 6
+    },
+    {
+        "subidr": 11,
+        "attnr": "focused",
+        "num1": 6,
+        "num2": 5,
+        "num3": 6
+    },
+    {
+        "subidr": 12,
+        "attnr": "focused",
+        "num1": 8,
+        "num2": 9,
+        "num3": 8
+    },
+    {
+        "subidr": 13,
+        "attnr": "focused",
+        "num1": 6,
+        "num2": 5,
+        "num3": 9
+    },
+    {
+        "subidr": 14,
+        "attnr": "focused",
+        "num1": 8,
+        "num2": 8,
+        "num3": 7
+    },
+    {
+        "subidr": 15,
+        "attnr": "focused",
+        "num1": 8,
+        "num2": 8,
+        "num3": 7
+    },
+    {
+        "subidr": 16,
+        "attnr": "focused",
+        "num1": 6,
+        "num2": 8,
+        "num3": 7
+    },
+    {
+        "subidr": 17,
+        "attnr": "focused",
+        "num1": 7,
+        "num2": 7,
+        "num3": 6
+    },
+    {
+        "subidr": 18,
+        "attnr": "focused",
+        "num1": 7,
+        "num2": 8,
+        "num3": 6
+    },
+    {
+        "subidr": 19,
+        "attnr": "focused",
+        "num1": 5,
+        "num2": 6,
+        "num3": 6
+    },
+    {
+        "subidr": 20,
+        "attnr": "focused",
+        "num1": 6,
+        "num2": 6,
+        "num3": 5
+    }
+]

@@ -1,0 +1,5938 @@
+[
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 0.0,
+        "firing_rate": 33.1899674031
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 3.2,
+        "firing_rate": 31.6917255152
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 6.4,
+        "firing_rate": 34.2798399644
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 12.8,
+        "firing_rate": 32.6318742985
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 25.6,
+        "firing_rate": 35.0604874577
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 51.2,
+        "firing_rate": 34.9875710227
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 0.0,
+        "firing_rate": 32.8685258964
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 3.2,
+        "firing_rate": 35.119047619
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 6.4,
+        "firing_rate": 34.8410757946
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 12.8,
+        "firing_rate": 35.6481481481
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 25.6,
+        "firing_rate": 33.6105675147
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 51.2,
+        "firing_rate": 34.27734375
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 0.0,
+        "firing_rate": 34.561752988
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 3.2,
+        "firing_rate": 34.8958333333
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 6.4,
+        "firing_rate": 34.9633251834
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 12.8,
+        "firing_rate": 36.4711934156
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 25.6,
+        "firing_rate": 32.5342465753
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 51.2,
+        "firing_rate": 35.009765625
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 0.0,
+        "firing_rate": 35.3585657371
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 3.2,
+        "firing_rate": 31.1011904762
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 6.4,
+        "firing_rate": 35.5134474328
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 12.8,
+        "firing_rate": 34.5164609053
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 25.6,
+        "firing_rate": 34.7847358121
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 51.2,
+        "firing_rate": 36.669921875
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 0.0,
+        "firing_rate": 36.2549800797
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 3.2,
+        "firing_rate": 32.3660714286
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 6.4,
+        "firing_rate": 36.9193154034
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 12.8,
+        "firing_rate": 35.6995884774
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 25.6,
+        "firing_rate": 35.8610567515
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 51.2,
+        "firing_rate": 37.060546875
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 0.0,
+        "firing_rate": 38.4960159363
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 3.2,
+        "firing_rate": 33.4821428571
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 6.4,
+        "firing_rate": 36.1858190709
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 12.8,
+        "firing_rate": 36.0082304527
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 25.6,
+        "firing_rate": 34.8825831703
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 51.2,
+        "firing_rate": 35.888671875
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 0.0,
+        "firing_rate": 36.2051792829
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 3.2,
+        "firing_rate": 34.375
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 6.4,
+        "firing_rate": 36.7970660147
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 12.8,
+        "firing_rate": 35.3909465021
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 25.6,
+        "firing_rate": 36.9863013699
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 51.2,
+        "firing_rate": 36.279296875
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 0.0,
+        "firing_rate": 34.7609561753
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 3.2,
+        "firing_rate": 34.6726190476
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 6.4,
+        "firing_rate": 38.2029339853
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 12.8,
+        "firing_rate": 35.6481481481
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 25.6,
+        "firing_rate": 38.0136986301
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 51.2,
+        "firing_rate": 37.79296875
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 0.0,
+        "firing_rate": 36.5537848606
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 3.2,
+        "firing_rate": 32.3660714286
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 6.4,
+        "firing_rate": 35.5745721271
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 12.8,
+        "firing_rate": 33.7448559671
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 25.6,
+        "firing_rate": 35.5675146771
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 51.2,
+        "firing_rate": 37.353515625
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 0.0,
+        "firing_rate": 33.515936255
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 3.2,
+        "firing_rate": 31.5476190476
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 6.4,
+        "firing_rate": 33.0073349633
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 12.8,
+        "firing_rate": 32.2666032773
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 25.6,
+        "firing_rate": 32.28962818
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 51.2,
+        "firing_rate": 35.25390625
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 0.0,
+        "firing_rate": 31.6733067729
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 3.2,
+        "firing_rate": 30.8779761905
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 6.4,
+        "firing_rate": 31.9682151589
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 12.8,
+        "firing_rate": 32.7986405205
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 25.6,
+        "firing_rate": 29.6966731898
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 51.2,
+        "firing_rate": 33.349609375
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 0.0,
+        "firing_rate": 32.1215139442
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 3.2,
+        "firing_rate": 30.0970758473
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 6.4,
+        "firing_rate": 31.173594132
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 12.8,
+        "firing_rate": 31.1927760396
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 25.6,
+        "firing_rate": 29.3052837573
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 51.2,
+        "firing_rate": 31.3593367034
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 0.0,
+        "firing_rate": 34.4621513944
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 3.2,
+        "firing_rate": 33.0191183554
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 6.4,
+        "firing_rate": 33.6797066015
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 12.8,
+        "firing_rate": 31.9922938189
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 25.6,
+        "firing_rate": 33.0684130789
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 51.2,
+        "firing_rate": 31.4144049073
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 0.0,
+        "firing_rate": 37.5857760456
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 3.2,
+        "firing_rate": 39.206226297
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 6.4,
+        "firing_rate": 38.4799298148
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 12.8,
+        "firing_rate": 38.2790725256
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 25.6,
+        "firing_rate": 38.0283572714
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 51.2,
+        "firing_rate": 35.2981969562
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 0.0,
+        "firing_rate": 41.3876308811
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 3.2,
+        "firing_rate": 43.0009045681
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 6.4,
+        "firing_rate": 42.8315775134
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 12.8,
+        "firing_rate": 44.1881669593
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 25.6,
+        "firing_rate": 43.2053130261
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 51.2,
+        "firing_rate": 44.0021276055
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 0.0,
+        "firing_rate": 45.2145741795
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 3.2,
+        "firing_rate": 44.0531572195
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 6.4,
+        "firing_rate": 44.5503067614
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 12.8,
+        "firing_rate": 46.0072153238
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 25.6,
+        "firing_rate": 46.6656178604
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 51.2,
+        "firing_rate": 49.4455590075
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 0.0,
+        "firing_rate": 44.426667193
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 3.2,
+        "firing_rate": 45.5579976408
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 6.4,
+        "firing_rate": 45.3353150482
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 12.8,
+        "firing_rate": 45.2545114631
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 25.6,
+        "firing_rate": 48.057998072
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 51.2,
+        "firing_rate": 52.8138549965
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 0.0,
+        "firing_rate": 43.5176761377
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 3.2,
+        "firing_rate": 46.4806723604
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 6.4,
+        "firing_rate": 45.975678826
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 12.8,
+        "firing_rate": 45.978011874
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 25.6,
+        "firing_rate": 51.49830443
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 51.2,
+        "firing_rate": 56.0062634769
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 0.0,
+        "firing_rate": 45.183845031
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 3.2,
+        "firing_rate": 46.7680543787
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 6.4,
+        "firing_rate": 47.6079465912
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 12.8,
+        "firing_rate": 49.4179484906
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 25.6,
+        "firing_rate": 53.4063507726
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 51.2,
+        "firing_rate": 56.5709270698
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 0.0,
+        "firing_rate": 44.5806310958
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 3.2,
+        "firing_rate": 47.7403311288
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 6.4,
+        "firing_rate": 47.9453145595
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 12.8,
+        "firing_rate": 50.884901111
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 25.6,
+        "firing_rate": 53.9921770122
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 320,
+        "coherence": 0.0,
+        "firing_rate": 42.1883499648
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 320,
+        "coherence": 3.2,
+        "firing_rate": 46.1091773662
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 320,
+        "coherence": 6.4,
+        "firing_rate": 46.9297722083
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 320,
+        "coherence": 12.8,
+        "firing_rate": 50.5475711692
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 320,
+        "coherence": 25.6,
+        "firing_rate": 54.2706099715
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 340,
+        "coherence": 0.0,
+        "firing_rate": 41.7881832087
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 340,
+        "coherence": 3.2,
+        "firing_rate": 45.6333595786
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 340,
+        "coherence": 6.4,
+        "firing_rate": 47.6741978356
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 340,
+        "coherence": 12.8,
+        "firing_rate": 49.8453330566
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 340,
+        "coherence": 25.6,
+        "firing_rate": 55.4833048133
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 360,
+        "coherence": 0.0,
+        "firing_rate": 43.8889398626
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 360,
+        "coherence": 3.2,
+        "firing_rate": 47.8811790178
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 360,
+        "coherence": 6.4,
+        "firing_rate": 50.4307958419
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 360,
+        "coherence": 12.8,
+        "firing_rate": 50.5637453923
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 360,
+        "coherence": 25.6,
+        "firing_rate": 57.6132002761
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 380,
+        "coherence": 0.0,
+        "firing_rate": 46.7939865745
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 380,
+        "coherence": 3.2,
+        "firing_rate": 46.0362955566
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 380,
+        "coherence": 6.4,
+        "firing_rate": 50.2350060629
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 380,
+        "coherence": 12.8,
+        "firing_rate": 51.839563305
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 380,
+        "coherence": 25.6,
+        "firing_rate": 57.9308464384
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 400,
+        "coherence": 0.0,
+        "firing_rate": 45.4823942827
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 400,
+        "coherence": 3.2,
+        "firing_rate": 45.3563633893
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 400,
+        "coherence": 6.4,
+        "firing_rate": 48.816525836
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 400,
+        "coherence": 12.8,
+        "firing_rate": 52.3134685064
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 400,
+        "coherence": 25.6,
+        "firing_rate": 58.2719153733
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 420,
+        "coherence": 0.0,
+        "firing_rate": 45.2294029647
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 420,
+        "coherence": 3.2,
+        "firing_rate": 47.370806321
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 420,
+        "coherence": 6.4,
+        "firing_rate": 51.0426760675
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 420,
+        "coherence": 12.8,
+        "firing_rate": 54.3442280151
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 420,
+        "coherence": 25.6,
+        "firing_rate": 58.7792250482
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 440,
+        "coherence": 0.0,
+        "firing_rate": 47.5705138296
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 440,
+        "coherence": 3.2,
+        "firing_rate": 47.8962913334
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 440,
+        "coherence": 6.4,
+        "firing_rate": 52.8451380575
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 440,
+        "coherence": 12.8,
+        "firing_rate": 56.5905120229
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 460,
+        "coherence": 0.0,
+        "firing_rate": 47.9965125796
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 460,
+        "coherence": 3.2,
+        "firing_rate": 49.7589895528
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 460,
+        "coherence": 6.4,
+        "firing_rate": 54.6071568221
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 460,
+        "coherence": 12.8,
+        "firing_rate": 57.6417931949
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 480,
+        "coherence": 0.0,
+        "firing_rate": 47.4221784572
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 480,
+        "coherence": 3.2,
+        "firing_rate": 50.2088029789
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 480,
+        "coherence": 6.4,
+        "firing_rate": 56.3631120383
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 480,
+        "coherence": 12.8,
+        "firing_rate": 57.336239303
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 500,
+        "coherence": 0.0,
+        "firing_rate": 48.4253715445
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 500,
+        "coherence": 3.2,
+        "firing_rate": 49.8924509929
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 500,
+        "coherence": 6.4,
+        "firing_rate": 56.3159583107
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 500,
+        "coherence": 12.8,
+        "firing_rate": 57.8834341936
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 520,
+        "coherence": 0.0,
+        "firing_rate": 49.8483600507
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 520,
+        "coherence": 3.2,
+        "firing_rate": 49.395357585
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 520,
+        "coherence": 6.4,
+        "firing_rate": 55.6257450533
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 520,
+        "coherence": 12.8,
+        "firing_rate": 56.7031475447
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 540,
+        "coherence": 0.0,
+        "firing_rate": 51.4958439254
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 540,
+        "coherence": 3.2,
+        "firing_rate": 48.066627973
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 540,
+        "coherence": 6.4,
+        "firing_rate": 52.6625406001
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 540,
+        "coherence": 12.8,
+        "firing_rate": 56.5965566665
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 560,
+        "coherence": 0.0,
+        "firing_rate": 53.8839724539
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 560,
+        "coherence": 3.2,
+        "firing_rate": 48.6514774419
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 560,
+        "coherence": 6.4,
+        "firing_rate": 51.2677935943
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 560,
+        "coherence": 12.8,
+        "firing_rate": 57.4458518599
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 580,
+        "coherence": 0.0,
+        "firing_rate": 53.0430826028
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 580,
+        "coherence": 3.2,
+        "firing_rate": 50.928916973
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 580,
+        "coherence": 6.4,
+        "firing_rate": 55.3879064133
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 600,
+        "coherence": 0.0,
+        "firing_rate": 52.1063146794
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 600,
+        "coherence": 3.2,
+        "firing_rate": 50.4609948656
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 600,
+        "coherence": 6.4,
+        "firing_rate": 58.3763412771
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 620,
+        "coherence": 0.0,
+        "firing_rate": 51.9722589882
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 620,
+        "coherence": 3.2,
+        "firing_rate": 49.6072463942
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 620,
+        "coherence": 6.4,
+        "firing_rate": 58.4313296726
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 640,
+        "coherence": 0.0,
+        "firing_rate": 51.4946850007
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 640,
+        "coherence": 3.2,
+        "firing_rate": 53.7183234006
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 660,
+        "coherence": 0.0,
+        "firing_rate": 51.3666266822
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 660,
+        "coherence": 3.2,
+        "firing_rate": 56.9613202683
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 680,
+        "coherence": 0.0,
+        "firing_rate": 52.6740476122
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 680,
+        "coherence": 3.2,
+        "firing_rate": 57.0799478842
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 700,
+        "coherence": 0.0,
+        "firing_rate": 52.6806817764
+    },
+    {
+        "align": "dots",
+        "choice": "T1",
+        "time": 720,
+        "coherence": 0.0,
+        "firing_rate": 51.299586053
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 0.0,
+        "firing_rate": 34.9701072622
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 3.2,
+        "firing_rate": 36.7858148044
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 6.4,
+        "firing_rate": 34.4785059901
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 12.8,
+        "firing_rate": 34.9914236707
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 25.6,
+        "firing_rate": 32.2415329768
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 51.2,
+        "firing_rate": 32.6330162086
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 0.0,
+        "firing_rate": 33.8491295938
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 3.2,
+        "firing_rate": 35.6811145511
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 6.4,
+        "firing_rate": 35.5943152455
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 12.8,
+        "firing_rate": 33.2285115304
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 25.6,
+        "firing_rate": 34.0196078431
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 51.2,
+        "firing_rate": 33.8662790698
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 0.0,
+        "firing_rate": 35.2030947776
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 3.2,
+        "firing_rate": 35.5263157895
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 6.4,
+        "firing_rate": 35.0129198966
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 12.8,
+        "firing_rate": 34.9056603774
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 25.6,
+        "firing_rate": 34.7058823529
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 51.2,
+        "firing_rate": 33.0910852713
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 0.0,
+        "firing_rate": 35.1063829787
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 3.2,
+        "firing_rate": 34.9845201238
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 6.4,
+        "firing_rate": 36.3695090439
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 12.8,
+        "firing_rate": 36.320754717
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 25.6,
+        "firing_rate": 34.8529411765
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 51.2,
+        "firing_rate": 35.3197674419
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 0.0,
+        "firing_rate": 34.1392649903
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 3.2,
+        "firing_rate": 36.1455108359
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 6.4,
+        "firing_rate": 37.8552971576
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 12.8,
+        "firing_rate": 36.0062893082
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 25.6,
+        "firing_rate": 34.4117647059
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 51.2,
+        "firing_rate": 35.6104651163
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 0.0,
+        "firing_rate": 35.9767891683
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 3.2,
+        "firing_rate": 38.3900928793
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 6.4,
+        "firing_rate": 36.9509043928
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 12.8,
+        "firing_rate": 36.8972746331
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 25.6,
+        "firing_rate": 34.362745098
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 51.2,
+        "firing_rate": 33.8178294574
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 0.0,
+        "firing_rate": 36.3636363636
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 3.2,
+        "firing_rate": 40.4024767802
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 6.4,
+        "firing_rate": 35.9819121447
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 12.8,
+        "firing_rate": 37.8406708595
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 25.6,
+        "firing_rate": 35.9803921569
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 51.2,
+        "firing_rate": 36.1918604651
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 0.0,
+        "firing_rate": 34.7195357834
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 3.2,
+        "firing_rate": 37.4613003096
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 6.4,
+        "firing_rate": 35.4005167959
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 12.8,
+        "firing_rate": 37.0545073375
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 25.6,
+        "firing_rate": 35.8823529412
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 51.2,
+        "firing_rate": 37.8391472868
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 0.0,
+        "firing_rate": 35.3965183752
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 3.2,
+        "firing_rate": 34.0557275542
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 6.4,
+        "firing_rate": 33.5917312661
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 12.8,
+        "firing_rate": 36.0062893082
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 25.6,
+        "firing_rate": 35.3431372549
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 51.2,
+        "firing_rate": 35.6589147287
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 0.0,
+        "firing_rate": 31.8665377176
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 3.2,
+        "firing_rate": 33.2817337461
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 6.4,
+        "firing_rate": 31.3953488372
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 12.8,
+        "firing_rate": 33.3333333333
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 25.6,
+        "firing_rate": 33.6764705882
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 51.2,
+        "firing_rate": 32.6550387597
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 0.0,
+        "firing_rate": 29.6905222437
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 3.2,
+        "firing_rate": 32.1207430341
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 6.4,
+        "firing_rate": 30.9492892804
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 12.8,
+        "firing_rate": 30.5063756889
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 25.6,
+        "firing_rate": 31.2745098039
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 51.2,
+        "firing_rate": 30.6686046512
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 0.0,
+        "firing_rate": 31.5280464217
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 3.2,
+        "firing_rate": 30.572755418
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 6.4,
+        "firing_rate": 32.4888754083
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 12.8,
+        "firing_rate": 30.6956495116
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 25.6,
+        "firing_rate": 31.3725490196
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 51.2,
+        "firing_rate": 31.4084685455
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 0.0,
+        "firing_rate": 33.4622823985
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 3.2,
+        "firing_rate": 31.9399161621
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 6.4,
+        "firing_rate": 34.1883327301
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 12.8,
+        "firing_rate": 33.4109778842
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 25.6,
+        "firing_rate": 33.0303469437
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 51.2,
+        "firing_rate": 33.4367357364
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 0.0,
+        "firing_rate": 38.2070547501
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 3.2,
+        "firing_rate": 37.8712163752
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 6.4,
+        "firing_rate": 38.5042012826
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 12.8,
+        "firing_rate": 38.4719004777
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 25.6,
+        "firing_rate": 37.0775301438
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 51.2,
+        "firing_rate": 38.2633844689
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 0.0,
+        "firing_rate": 42.7578085722
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 3.2,
+        "firing_rate": 42.2897196262
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 6.4,
+        "firing_rate": 42.9949986829
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 12.8,
+        "firing_rate": 41.5088392695
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 25.6,
+        "firing_rate": 41.8176444453
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 51.2,
+        "firing_rate": 43.1074684774
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 0.0,
+        "firing_rate": 44.5909389003
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 3.2,
+        "firing_rate": 45.3417177461
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 6.4,
+        "firing_rate": 45.4000593486
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 12.8,
+        "firing_rate": 41.8565530425
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 25.6,
+        "firing_rate": 42.4234549444
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 51.2,
+        "firing_rate": 40.6228763776
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 0.0,
+        "firing_rate": 43.3291259446
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 3.2,
+        "firing_rate": 45.5698126733
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 6.4,
+        "firing_rate": 46.0860105176
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 12.8,
+        "firing_rate": 41.9135577374
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 25.6,
+        "firing_rate": 39.0738361103
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 51.2,
+        "firing_rate": 37.4852335411
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 0.0,
+        "firing_rate": 43.3132225106
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 3.2,
+        "firing_rate": 43.3325723491
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 6.4,
+        "firing_rate": 43.3791616022
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 12.8,
+        "firing_rate": 41.9109630979
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 25.6,
+        "firing_rate": 37.912397605
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 51.2,
+        "firing_rate": 36.7127196352
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 0.0,
+        "firing_rate": 44.0351005894
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 3.2,
+        "firing_rate": 40.7781018409
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 6.4,
+        "firing_rate": 42.3074505091
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 12.8,
+        "firing_rate": 38.8754812498
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 25.6,
+        "firing_rate": 38.1344925275
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 51.2,
+        "firing_rate": 35.9808003647
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 0.0,
+        "firing_rate": 42.9985009362
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 3.2,
+        "firing_rate": 40.6293355403
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 6.4,
+        "firing_rate": 42.5742920171
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 12.8,
+        "firing_rate": 37.7958539325
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 25.6,
+        "firing_rate": 36.2919354435
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 51.2,
+        "firing_rate": 34.1760123767
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 320,
+        "coherence": 0.0,
+        "firing_rate": 39.8459992058
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 320,
+        "coherence": 3.2,
+        "firing_rate": 38.6301686727
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 320,
+        "coherence": 6.4,
+        "firing_rate": 41.2207626677
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 320,
+        "coherence": 12.8,
+        "firing_rate": 35.5155038833
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 320,
+        "coherence": 25.6,
+        "firing_rate": 33.6229546792
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 320,
+        "coherence": 51.2,
+        "firing_rate": 33.7686320342
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 340,
+        "coherence": 0.0,
+        "firing_rate": 38.294630264
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 340,
+        "coherence": 3.2,
+        "firing_rate": 39.2359539907
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 340,
+        "coherence": 6.4,
+        "firing_rate": 41.5255817987
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 340,
+        "coherence": 12.8,
+        "firing_rate": 34.3093086994
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 340,
+        "coherence": 25.6,
+        "firing_rate": 31.1869789361
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 360,
+        "coherence": 0.0,
+        "firing_rate": 38.7832089442
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 360,
+        "coherence": 3.2,
+        "firing_rate": 40.5201660452
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 360,
+        "coherence": 6.4,
+        "firing_rate": 40.2438173059
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 360,
+        "coherence": 12.8,
+        "firing_rate": 37.3473010589
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 360,
+        "coherence": 25.6,
+        "firing_rate": 30.9096204221
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 380,
+        "coherence": 0.0,
+        "firing_rate": 37.7037571598
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 380,
+        "coherence": 3.2,
+        "firing_rate": 37.8557504873
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 380,
+        "coherence": 6.4,
+        "firing_rate": 38.1466711944
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 380,
+        "coherence": 12.8,
+        "firing_rate": 36.4564971115
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 380,
+        "coherence": 25.6,
+        "firing_rate": 30.4264563351
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 400,
+        "coherence": 0.0,
+        "firing_rate": 39.742881112
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 400,
+        "coherence": 3.2,
+        "firing_rate": 37.7696727599
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 400,
+        "coherence": 6.4,
+        "firing_rate": 37.282919343
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 400,
+        "coherence": 12.8,
+        "firing_rate": 36.5347678542
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 400,
+        "coherence": 25.6,
+        "firing_rate": 27.8518122463
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 420,
+        "coherence": 0.0,
+        "firing_rate": 41.3684007973
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 420,
+        "coherence": 3.2,
+        "firing_rate": 38.8926908711
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 420,
+        "coherence": 6.4,
+        "firing_rate": 36.7202937136
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 420,
+        "coherence": 12.8,
+        "firing_rate": 35.1082370207
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 420,
+        "coherence": 25.6,
+        "firing_rate": 27.861418733
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 440,
+        "coherence": 0.0,
+        "firing_rate": 40.6496445189
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 440,
+        "coherence": 3.2,
+        "firing_rate": 39.9098650911
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 440,
+        "coherence": 6.4,
+        "firing_rate": 38.0156523023
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 440,
+        "coherence": 12.8,
+        "firing_rate": 35.2694954062
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 440,
+        "coherence": 25.6,
+        "firing_rate": 29.81667219
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 460,
+        "coherence": 0.0,
+        "firing_rate": 42.7507271759
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 460,
+        "coherence": 3.2,
+        "firing_rate": 39.6852155867
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 460,
+        "coherence": 6.4,
+        "firing_rate": 38.520175851
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 460,
+        "coherence": 12.8,
+        "firing_rate": 36.5036817188
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 480,
+        "coherence": 0.0,
+        "firing_rate": 41.6795939186
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 480,
+        "coherence": 3.2,
+        "firing_rate": 38.2746541855
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 480,
+        "coherence": 6.4,
+        "firing_rate": 38.0980698037
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 480,
+        "coherence": 12.8,
+        "firing_rate": 34.0660031252
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 500,
+        "coherence": 0.0,
+        "firing_rate": 38.0762367984
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 500,
+        "coherence": 3.2,
+        "firing_rate": 38.7038940633
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 500,
+        "coherence": 6.4,
+        "firing_rate": 39.399412391
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 500,
+        "coherence": 12.8,
+        "firing_rate": 36.6778056607
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 520,
+        "coherence": 0.0,
+        "firing_rate": 40.3020387251
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 520,
+        "coherence": 3.2,
+        "firing_rate": 38.768191293
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 520,
+        "coherence": 6.4,
+        "firing_rate": 37.1402778543
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 520,
+        "coherence": 12.8,
+        "firing_rate": 36.8786473739
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 540,
+        "coherence": 0.0,
+        "firing_rate": 41.3666539656
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 540,
+        "coherence": 3.2,
+        "firing_rate": 37.1782371295
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 540,
+        "coherence": 6.4,
+        "firing_rate": 35.8263885332
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 540,
+        "coherence": 12.8,
+        "firing_rate": 33.7657325009
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 560,
+        "coherence": 0.0,
+        "firing_rate": 42.1411371631
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 560,
+        "coherence": 3.2,
+        "firing_rate": 39.4878074198
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 560,
+        "coherence": 6.4,
+        "firing_rate": 36.8214417656
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 560,
+        "coherence": 12.8,
+        "firing_rate": 33.73267699
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 580,
+        "coherence": 0.0,
+        "firing_rate": 40.6285403536
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 580,
+        "coherence": 3.2,
+        "firing_rate": 41.2384548086
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 580,
+        "coherence": 6.4,
+        "firing_rate": 36.1422793814
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 600,
+        "coherence": 0.0,
+        "firing_rate": 38.626129285
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 600,
+        "coherence": 3.2,
+        "firing_rate": 38.9859711621
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 600,
+        "coherence": 6.4,
+        "firing_rate": 36.4593012697
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 620,
+        "coherence": 0.0,
+        "firing_rate": 41.6313731495
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 620,
+        "coherence": 3.2,
+        "firing_rate": 40.9941162703
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 620,
+        "coherence": 6.4,
+        "firing_rate": 35.3408471901
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 640,
+        "coherence": 0.0,
+        "firing_rate": 41.3093764734
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 640,
+        "coherence": 3.2,
+        "firing_rate": 42.9420765936
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 640,
+        "coherence": 6.4,
+        "firing_rate": 37.8523264371
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 660,
+        "coherence": 0.0,
+        "firing_rate": 40.65999957
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 660,
+        "coherence": 3.2,
+        "firing_rate": 39.3419135381
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 680,
+        "coherence": 0.0,
+        "firing_rate": 42.454915858
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 680,
+        "coherence": 3.2,
+        "firing_rate": 37.8062672369
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 700,
+        "coherence": 0.0,
+        "firing_rate": 43.4649588514
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 700,
+        "coherence": 3.2,
+        "firing_rate": 38.994559118
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 720,
+        "coherence": 0.0,
+        "firing_rate": 41.9871213179
+    },
+    {
+        "align": "dots",
+        "choice": "T2",
+        "time": 720,
+        "coherence": 3.2,
+        "firing_rate": 41.7160565573
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -600,
+        "coherence": 0.0,
+        "firing_rate": 45.2325120377
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -580,
+        "coherence": 0.0,
+        "firing_rate": 45.4264028997
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -560,
+        "coherence": 0.0,
+        "firing_rate": 43.0716466126
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -560,
+        "coherence": 3.2,
+        "firing_rate": 44.6334707376
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -540,
+        "coherence": 0.0,
+        "firing_rate": 45.4794313401
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -540,
+        "coherence": 3.2,
+        "firing_rate": 44.2150705016
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -520,
+        "coherence": 0.0,
+        "firing_rate": 45.506553529
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -520,
+        "coherence": 3.2,
+        "firing_rate": 45.6483325386
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -500,
+        "coherence": 0.0,
+        "firing_rate": 45.4151502861
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -500,
+        "coherence": 3.2,
+        "firing_rate": 45.9241043648
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -500,
+        "coherence": 6.4,
+        "firing_rate": 50.0619965618
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -480,
+        "coherence": 0.0,
+        "firing_rate": 48.160760903
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -480,
+        "coherence": 3.2,
+        "firing_rate": 45.7282215546
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -480,
+        "coherence": 6.4,
+        "firing_rate": 49.6277218935
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -460,
+        "coherence": 0.0,
+        "firing_rate": 46.3937943881
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -460,
+        "coherence": 3.2,
+        "firing_rate": 47.06353638
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -460,
+        "coherence": 6.4,
+        "firing_rate": 51.0213340154
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -440,
+        "coherence": 0.0,
+        "firing_rate": 43.5141711801
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -440,
+        "coherence": 3.2,
+        "firing_rate": 47.6131067824
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -440,
+        "coherence": 6.4,
+        "firing_rate": 48.7946689049
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -440,
+        "coherence": 12.8,
+        "firing_rate": 49.603478703
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -420,
+        "coherence": 0.0,
+        "firing_rate": 45.6403332059
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -420,
+        "coherence": 3.2,
+        "firing_rate": 48.9830083705
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -420,
+        "coherence": 6.4,
+        "firing_rate": 51.0323809137
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -420,
+        "coherence": 12.8,
+        "firing_rate": 51.9676391845
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -400,
+        "coherence": 0.0,
+        "firing_rate": 48.8318863322
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -400,
+        "coherence": 3.2,
+        "firing_rate": 47.171291067
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -400,
+        "coherence": 6.4,
+        "firing_rate": 52.5509987955
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -400,
+        "coherence": 12.8,
+        "firing_rate": 51.7947628697
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -380,
+        "coherence": 0.0,
+        "firing_rate": 50.8980590583
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -380,
+        "coherence": 3.2,
+        "firing_rate": 48.9092059523
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -380,
+        "coherence": 6.4,
+        "firing_rate": 48.8474113348
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -380,
+        "coherence": 12.8,
+        "firing_rate": 52.0292508296
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -360,
+        "coherence": 0.0,
+        "firing_rate": 51.2067586014
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -360,
+        "coherence": 3.2,
+        "firing_rate": 50.2840383861
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -360,
+        "coherence": 6.4,
+        "firing_rate": 50.145345275
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -360,
+        "coherence": 12.8,
+        "firing_rate": 53.2630051358
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -340,
+        "coherence": 0.0,
+        "firing_rate": 50.2800233932
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -340,
+        "coherence": 3.2,
+        "firing_rate": 50.0120454694
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -340,
+        "coherence": 6.4,
+        "firing_rate": 52.2716382085
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -340,
+        "coherence": 12.8,
+        "firing_rate": 53.0778335811
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -320,
+        "coherence": 0.0,
+        "firing_rate": 49.4086709956
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -320,
+        "coherence": 3.2,
+        "firing_rate": 51.7156662265
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -320,
+        "coherence": 6.4,
+        "firing_rate": 53.0425605954
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -320,
+        "coherence": 12.8,
+        "firing_rate": 53.4673586898
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -300,
+        "coherence": 0.0,
+        "firing_rate": 49.1203942708
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -300,
+        "coherence": 3.2,
+        "firing_rate": 49.418248136
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -300,
+        "coherence": 6.4,
+        "firing_rate": 54.0102823529
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -300,
+        "coherence": 12.8,
+        "firing_rate": 54.6096601316
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -300,
+        "coherence": 25.6,
+        "firing_rate": 54.1875464625
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -280,
+        "coherence": 0.0,
+        "firing_rate": 51.6971579109
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -280,
+        "coherence": 3.2,
+        "firing_rate": 51.0207341541
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -280,
+        "coherence": 6.4,
+        "firing_rate": 55.7411082083
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -280,
+        "coherence": 12.8,
+        "firing_rate": 53.2776573023
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -280,
+        "coherence": 25.6,
+        "firing_rate": 54.5064306881
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -260,
+        "coherence": 0.0,
+        "firing_rate": 52.6379444601
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -260,
+        "coherence": 3.2,
+        "firing_rate": 52.6249011151
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -260,
+        "coherence": 6.4,
+        "firing_rate": 56.567696028
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -260,
+        "coherence": 12.8,
+        "firing_rate": 53.945858687
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -260,
+        "coherence": 25.6,
+        "firing_rate": 55.0692362824
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -240,
+        "coherence": 0.0,
+        "firing_rate": 51.2549672581
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -240,
+        "coherence": 3.2,
+        "firing_rate": 52.5865121943
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -240,
+        "coherence": 6.4,
+        "firing_rate": 53.8916036035
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -240,
+        "coherence": 12.8,
+        "firing_rate": 55.8665513894
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -240,
+        "coherence": 25.6,
+        "firing_rate": 54.0660056789
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -220,
+        "coherence": 0.0,
+        "firing_rate": 50.5983703221
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -220,
+        "coherence": 3.2,
+        "firing_rate": 51.4625155232
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -220,
+        "coherence": 6.4,
+        "firing_rate": 54.3207205125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -220,
+        "coherence": 12.8,
+        "firing_rate": 55.9107111914
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -220,
+        "coherence": 25.6,
+        "firing_rate": 53.4235227174
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -200,
+        "coherence": 0.0,
+        "firing_rate": 54.0969887257
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -200,
+        "coherence": 3.2,
+        "firing_rate": 52.8902388815
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -200,
+        "coherence": 6.4,
+        "firing_rate": 57.2658855352
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -200,
+        "coherence": 12.8,
+        "firing_rate": 55.8513473336
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -200,
+        "coherence": 25.6,
+        "firing_rate": 54.30218802
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -180,
+        "coherence": 0.0,
+        "firing_rate": 56.0836482647
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -180,
+        "coherence": 3.2,
+        "firing_rate": 54.6633426001
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -180,
+        "coherence": 6.4,
+        "firing_rate": 56.5684880076
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -180,
+        "coherence": 12.8,
+        "firing_rate": 57.0138948985
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -180,
+        "coherence": 25.6,
+        "firing_rate": 56.7413467363
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -160,
+        "coherence": 0.0,
+        "firing_rate": 55.3505702695
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -160,
+        "coherence": 3.2,
+        "firing_rate": 53.8272331128
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -160,
+        "coherence": 6.4,
+        "firing_rate": 56.7240292283
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -160,
+        "coherence": 12.8,
+        "firing_rate": 58.1193158789
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -160,
+        "coherence": 25.6,
+        "firing_rate": 58.6021829868
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -160,
+        "coherence": 51.2,
+        "firing_rate": 54.8967997613
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -140,
+        "coherence": 0.0,
+        "firing_rate": 57.1593256173
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -140,
+        "coherence": 3.2,
+        "firing_rate": 56.5769900664
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -140,
+        "coherence": 6.4,
+        "firing_rate": 56.7545502426
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -140,
+        "coherence": 12.8,
+        "firing_rate": 59.1831621625
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -140,
+        "coherence": 25.6,
+        "firing_rate": 58.7923267235
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -140,
+        "coherence": 51.2,
+        "firing_rate": 57.8214569751
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -120,
+        "coherence": 0.0,
+        "firing_rate": 58.53308329
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -120,
+        "coherence": 3.2,
+        "firing_rate": 59.1191539695
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -120,
+        "coherence": 6.4,
+        "firing_rate": 58.9815430655
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -120,
+        "coherence": 12.8,
+        "firing_rate": 61.3557810869
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -120,
+        "coherence": 25.6,
+        "firing_rate": 59.4419114489
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -120,
+        "coherence": 51.2,
+        "firing_rate": 59.6895693369
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -100,
+        "coherence": 0.0,
+        "firing_rate": 59.4948613645
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -100,
+        "coherence": 3.2,
+        "firing_rate": 62.7954637729
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -100,
+        "coherence": 6.4,
+        "firing_rate": 62.4863240028
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -100,
+        "coherence": 12.8,
+        "firing_rate": 62.6925464066
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -100,
+        "coherence": 25.6,
+        "firing_rate": 59.4754759182
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -100,
+        "coherence": 51.2,
+        "firing_rate": 59.1229508662
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 0.0,
+        "firing_rate": 62.1398334413
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 3.2,
+        "firing_rate": 63.6967779056
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 6.4,
+        "firing_rate": 63.6803949111
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 12.8,
+        "firing_rate": 63.7975062565
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 25.6,
+        "firing_rate": 60.746123495
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -80,
+        "coherence": 51.2,
+        "firing_rate": 61.6545577621
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 0.0,
+        "firing_rate": 63.9918381337
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 3.2,
+        "firing_rate": 64.0885489132
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 6.4,
+        "firing_rate": 65.9275648059
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 12.8,
+        "firing_rate": 64.4531213517
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 25.6,
+        "firing_rate": 65.0785915901
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -60,
+        "coherence": 51.2,
+        "firing_rate": 62.7558667307
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 0.0,
+        "firing_rate": 65.9860557769
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 3.2,
+        "firing_rate": 66.4632254083
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 6.4,
+        "firing_rate": 67.7872860636
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 12.8,
+        "firing_rate": 67.6494487948
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 25.6,
+        "firing_rate": 67.4806695911
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -40,
+        "coherence": 51.2,
+        "firing_rate": 66.6127927521
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 0.0,
+        "firing_rate": 68.3764940239
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 3.2,
+        "firing_rate": 66.8195604614
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 6.4,
+        "firing_rate": 68.2762836186
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 12.8,
+        "firing_rate": 69.8335976272
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 25.6,
+        "firing_rate": 69.2759295499
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": -20,
+        "coherence": 51.2,
+        "firing_rate": 69.2525512899
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 0.0,
+        "firing_rate": 67.6792828685
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 3.2,
+        "firing_rate": 66.443452381
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 6.4,
+        "firing_rate": 70.0488997555
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 12.8,
+        "firing_rate": 68.1668870183
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 25.6,
+        "firing_rate": 69.5694716243
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 0,
+        "coherence": 51.2,
+        "firing_rate": 67.87109375
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 0.0,
+        "firing_rate": 63.8446215139
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 3.2,
+        "firing_rate": 65.0297619048
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 6.4,
+        "firing_rate": 66.9926650367
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 12.8,
+        "firing_rate": 62.6236601367
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 25.6,
+        "firing_rate": 66.2426614481
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 20,
+        "coherence": 51.2,
+        "firing_rate": 66.455078125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 0.0,
+        "firing_rate": 60.3585657371
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 3.2,
+        "firing_rate": 60.193452381
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 6.4,
+        "firing_rate": 58.5574572127
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 12.8,
+        "firing_rate": 59.0020576132
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 25.6,
+        "firing_rate": 62.084148728
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 40,
+        "coherence": 51.2,
+        "firing_rate": 62.939453125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 0.0,
+        "firing_rate": 53.2370517928
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 3.2,
+        "firing_rate": 51.2648809524
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 6.4,
+        "firing_rate": 51.95599022
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 12.8,
+        "firing_rate": 52.3148148148
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 25.6,
+        "firing_rate": 52.8375733855
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 60,
+        "coherence": 51.2,
+        "firing_rate": 53.61328125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 0.0,
+        "firing_rate": 44.3725099602
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 3.2,
+        "firing_rate": 43.75
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 6.4,
+        "firing_rate": 45.2322738386
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 12.8,
+        "firing_rate": 42.0781893004
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 25.6,
+        "firing_rate": 44.373776908
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 80,
+        "coherence": 51.2,
+        "firing_rate": 44.677734375
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 0.0,
+        "firing_rate": 37.5996015936
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 3.2,
+        "firing_rate": 38.244047619
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 6.4,
+        "firing_rate": 37.1638141809
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 12.8,
+        "firing_rate": 36.1111111111
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 25.6,
+        "firing_rate": 37.915851272
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 100,
+        "coherence": 51.2,
+        "firing_rate": 37.744140625
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 0.0,
+        "firing_rate": 30.8266932271
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 3.2,
+        "firing_rate": 29.9851190476
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 6.4,
+        "firing_rate": 30.8679706601
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 12.8,
+        "firing_rate": 29.6296296296
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 25.6,
+        "firing_rate": 29.6966731898
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 120,
+        "coherence": 51.2,
+        "firing_rate": 31.494140625
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 0.0,
+        "firing_rate": 25.8964143426
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 3.2,
+        "firing_rate": 23.2142857143
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 6.4,
+        "firing_rate": 24.3887530562
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 12.8,
+        "firing_rate": 24.6399176955
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 25.6,
+        "firing_rate": 23.5812133072
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 140,
+        "coherence": 51.2,
+        "firing_rate": 25.87890625
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 0.0,
+        "firing_rate": 20.3685258964
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 3.2,
+        "firing_rate": 20.3125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 6.4,
+        "firing_rate": 19.3765281174
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 12.8,
+        "firing_rate": 19.5473251029
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 25.6,
+        "firing_rate": 18.6888454012
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 160,
+        "coherence": 51.2,
+        "firing_rate": 21.044921875
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 0.0,
+        "firing_rate": 14.4422310757
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 3.2,
+        "firing_rate": 16.0714285714
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 6.4,
+        "firing_rate": 16.564792176
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 12.8,
+        "firing_rate": 14.866255144
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 25.6,
+        "firing_rate": 14.481409002
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 180,
+        "coherence": 51.2,
+        "firing_rate": 16.89453125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 0.0,
+        "firing_rate": 10.4581673307
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 3.2,
+        "firing_rate": 12.7838338423
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 6.4,
+        "firing_rate": 13.141809291
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 12.8,
+        "firing_rate": 12.4485596708
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 25.6,
+        "firing_rate": 11.1056751468
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 200,
+        "coherence": 51.2,
+        "firing_rate": 13.330078125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 0.0,
+        "firing_rate": 8.71513944223
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 3.2,
+        "firing_rate": 10.6859286565
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 6.4,
+        "firing_rate": 9.35207823961
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 12.8,
+        "firing_rate": 10.0823045267
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 25.6,
+        "firing_rate": 10.3718199609
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 220,
+        "coherence": 51.2,
+        "firing_rate": 11.474609375
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 0.0,
+        "firing_rate": 8.86454183267
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 3.2,
+        "firing_rate": 8.30860534125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 6.4,
+        "firing_rate": 7.45721271394
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 12.8,
+        "firing_rate": 8.48765432099
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 25.6,
+        "firing_rate": 9.93150684932
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 240,
+        "coherence": 51.2,
+        "firing_rate": 9.47265625
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 0.0,
+        "firing_rate": 7.76892430279
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 3.2,
+        "firing_rate": 6.89910979228
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 6.4,
+        "firing_rate": 7.39608801956
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 12.8,
+        "firing_rate": 7.61316872428
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 25.6,
+        "firing_rate": 8.12133072407
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 260,
+        "coherence": 51.2,
+        "firing_rate": 8.251953125
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 0.0,
+        "firing_rate": 6.47410358566
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 3.2,
+        "firing_rate": 7.34421364985
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 6.4,
+        "firing_rate": 7.21271393643
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 12.8,
+        "firing_rate": 6.27572016461
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 25.6,
+        "firing_rate": 7.48532289628
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 280,
+        "coherence": 51.2,
+        "firing_rate": 8.056640625
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 0.0,
+        "firing_rate": 6.57370517928
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 3.2,
+        "firing_rate": 6.6765578635
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 6.4,
+        "firing_rate": 7.0293398533
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 12.8,
+        "firing_rate": 6.37860082305
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 25.6,
+        "firing_rate": 6.60469667319
+    },
+    {
+        "align": "sacc",
+        "choice": "T1",
+        "time": 300,
+        "coherence": 51.2,
+        "firing_rate": 7.666015625
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -600,
+        "coherence": 0.0,
+        "firing_rate": 44.2103307115
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -600,
+        "coherence": 3.2,
+        "firing_rate": 43.0738351627
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -580,
+        "coherence": 0.0,
+        "firing_rate": 42.0951655159
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -580,
+        "coherence": 3.2,
+        "firing_rate": 43.0756767503
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -560,
+        "coherence": 0.0,
+        "firing_rate": 42.1253513485
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -560,
+        "coherence": 3.2,
+        "firing_rate": 45.285452736
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -540,
+        "coherence": 0.0,
+        "firing_rate": 44.1789711798
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -540,
+        "coherence": 3.2,
+        "firing_rate": 44.4708434932
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -520,
+        "coherence": 0.0,
+        "firing_rate": 43.3521961356
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -520,
+        "coherence": 3.2,
+        "firing_rate": 41.5618016122
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -520,
+        "coherence": 6.4,
+        "firing_rate": 44.2199954188
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -500,
+        "coherence": 0.0,
+        "firing_rate": 43.1815199497
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -500,
+        "coherence": 3.2,
+        "firing_rate": 42.8556154206
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -500,
+        "coherence": 6.4,
+        "firing_rate": 42.4625739991
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -480,
+        "coherence": 0.0,
+        "firing_rate": 40.9459448349
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -480,
+        "coherence": 3.2,
+        "firing_rate": 41.8233212614
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -480,
+        "coherence": 6.4,
+        "firing_rate": 45.1344918679
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -460,
+        "coherence": 0.0,
+        "firing_rate": 40.0093039819
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -460,
+        "coherence": 3.2,
+        "firing_rate": 40.537176289
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -460,
+        "coherence": 6.4,
+        "firing_rate": 42.6259401288
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -440,
+        "coherence": 0.0,
+        "firing_rate": 43.0018202785
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -440,
+        "coherence": 3.2,
+        "firing_rate": 39.4091538793
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -440,
+        "coherence": 6.4,
+        "firing_rate": 40.2619258987
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -440,
+        "coherence": 12.8,
+        "firing_rate": 41.1419903616
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -420,
+        "coherence": 0.0,
+        "firing_rate": 42.3766444199
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -420,
+        "coherence": 3.2,
+        "firing_rate": 39.5781225037
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -420,
+        "coherence": 6.4,
+        "firing_rate": 41.5610024235
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -420,
+        "coherence": 12.8,
+        "firing_rate": 40.409673204
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -400,
+        "coherence": 0.0,
+        "firing_rate": 40.6714853979
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -400,
+        "coherence": 3.2,
+        "firing_rate": 41.2375491667
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -400,
+        "coherence": 6.4,
+        "firing_rate": 40.9429357455
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -400,
+        "coherence": 12.8,
+        "firing_rate": 38.5119562086
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -380,
+        "coherence": 0.0,
+        "firing_rate": 43.2876446613
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -380,
+        "coherence": 3.2,
+        "firing_rate": 42.085900587
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -380,
+        "coherence": 6.4,
+        "firing_rate": 39.9689553885
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -380,
+        "coherence": 12.8,
+        "firing_rate": 39.7333761332
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -360,
+        "coherence": 0.0,
+        "firing_rate": 43.3612315989
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -360,
+        "coherence": 3.2,
+        "firing_rate": 42.4194708691
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -360,
+        "coherence": 6.4,
+        "firing_rate": 41.5804848172
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -360,
+        "coherence": 12.8,
+        "firing_rate": 40.044420197
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -340,
+        "coherence": 0.0,
+        "firing_rate": 39.8762267679
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -340,
+        "coherence": 3.2,
+        "firing_rate": 42.0788697858
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -340,
+        "coherence": 6.4,
+        "firing_rate": 41.9028758554
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -340,
+        "coherence": 12.8,
+        "firing_rate": 38.3120025573
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -320,
+        "coherence": 0.0,
+        "firing_rate": 40.4448454043
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -320,
+        "coherence": 3.2,
+        "firing_rate": 40.1513880957
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -320,
+        "coherence": 6.4,
+        "firing_rate": 40.4341352507
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -320,
+        "coherence": 12.8,
+        "firing_rate": 37.7310662817
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -320,
+        "coherence": 25.6,
+        "firing_rate": 37.0585131882
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -300,
+        "coherence": 0.0,
+        "firing_rate": 40.887184232
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -300,
+        "coherence": 3.2,
+        "firing_rate": 38.9407023685
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -300,
+        "coherence": 6.4,
+        "firing_rate": 41.2580403278
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -300,
+        "coherence": 12.8,
+        "firing_rate": 38.124344213
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -300,
+        "coherence": 25.6,
+        "firing_rate": 36.0738072395
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -280,
+        "coherence": 0.0,
+        "firing_rate": 41.1947056441
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -280,
+        "coherence": 3.2,
+        "firing_rate": 39.5680329223
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -280,
+        "coherence": 6.4,
+        "firing_rate": 38.3602705272
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -280,
+        "coherence": 12.8,
+        "firing_rate": 37.3681995607
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -280,
+        "coherence": 25.6,
+        "firing_rate": 33.8812336651
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -260,
+        "coherence": 0.0,
+        "firing_rate": 41.0136327071
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -260,
+        "coherence": 3.2,
+        "firing_rate": 38.3195658023
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -260,
+        "coherence": 6.4,
+        "firing_rate": 36.4397887275
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -260,
+        "coherence": 12.8,
+        "firing_rate": 36.2032193868
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -260,
+        "coherence": 25.6,
+        "firing_rate": 31.805921065
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -240,
+        "coherence": 0.0,
+        "firing_rate": 41.8416740624
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -240,
+        "coherence": 3.2,
+        "firing_rate": 36.0275741717
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -240,
+        "coherence": 6.4,
+        "firing_rate": 37.6898636484
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -240,
+        "coherence": 12.8,
+        "firing_rate": 36.5745098348
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -240,
+        "coherence": 25.6,
+        "firing_rate": 31.6444372473
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -220,
+        "coherence": 0.0,
+        "firing_rate": 44.2495790872
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -220,
+        "coherence": 3.2,
+        "firing_rate": 37.0695086704
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -220,
+        "coherence": 6.4,
+        "firing_rate": 37.956359877
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -220,
+        "coherence": 12.8,
+        "firing_rate": 37.3919401512
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -220,
+        "coherence": 25.6,
+        "firing_rate": 31.3636734123
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -200,
+        "coherence": 0.0,
+        "firing_rate": 42.1919635126
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -200,
+        "coherence": 3.2,
+        "firing_rate": 38.0726715912
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -200,
+        "coherence": 6.4,
+        "firing_rate": 37.0371458417
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -200,
+        "coherence": 12.8,
+        "firing_rate": 36.5375027453
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -200,
+        "coherence": 25.6,
+        "firing_rate": 31.830531567
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -200,
+        "coherence": 51.2,
+        "firing_rate": 34.278488404
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -180,
+        "coherence": 0.0,
+        "firing_rate": 39.9167537004
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -180,
+        "coherence": 3.2,
+        "firing_rate": 37.9308811524
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -180,
+        "coherence": 6.4,
+        "firing_rate": 36.3390296669
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -180,
+        "coherence": 12.8,
+        "firing_rate": 35.0061872356
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -180,
+        "coherence": 25.6,
+        "firing_rate": 32.4350363538
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -180,
+        "coherence": 51.2,
+        "firing_rate": 34.4335537627
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -160,
+        "coherence": 0.0,
+        "firing_rate": 40.8200657039
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -160,
+        "coherence": 3.2,
+        "firing_rate": 38.2566962825
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -160,
+        "coherence": 6.4,
+        "firing_rate": 36.7686859329
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -160,
+        "coherence": 12.8,
+        "firing_rate": 33.0507600504
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -160,
+        "coherence": 25.6,
+        "firing_rate": 32.3455813934
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -160,
+        "coherence": 51.2,
+        "firing_rate": 33.426397216
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -140,
+        "coherence": 0.0,
+        "firing_rate": 41.6360762294
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -140,
+        "coherence": 3.2,
+        "firing_rate": 36.5123153677
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -140,
+        "coherence": 6.4,
+        "firing_rate": 37.072901881
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -140,
+        "coherence": 12.8,
+        "firing_rate": 32.8615628189
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -140,
+        "coherence": 25.6,
+        "firing_rate": 29.9254467262
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -140,
+        "coherence": 51.2,
+        "firing_rate": 32.6695852309
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -120,
+        "coherence": 0.0,
+        "firing_rate": 39.9027077915
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -120,
+        "coherence": 3.2,
+        "firing_rate": 35.8890690743
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -120,
+        "coherence": 6.4,
+        "firing_rate": 38.9400053932
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -120,
+        "coherence": 12.8,
+        "firing_rate": 33.160408053
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -120,
+        "coherence": 25.6,
+        "firing_rate": 28.7117587722
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -120,
+        "coherence": 51.2,
+        "firing_rate": 32.3783626069
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -100,
+        "coherence": 0.0,
+        "firing_rate": 39.8545786265
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -100,
+        "coherence": 3.2,
+        "firing_rate": 37.6253424388
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -100,
+        "coherence": 6.4,
+        "firing_rate": 37.2592360274
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -100,
+        "coherence": 12.8,
+        "firing_rate": 31.7857081144
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -100,
+        "coherence": 25.6,
+        "firing_rate": 28.5092773179
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -100,
+        "coherence": 51.2,
+        "firing_rate": 30.3214636813
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 0.0,
+        "firing_rate": 39.0686538561
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 3.2,
+        "firing_rate": 38.3177570093
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 6.4,
+        "firing_rate": 37.1092892429
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 12.8,
+        "firing_rate": 31.6706619895
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 25.6,
+        "firing_rate": 27.1673864252
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -80,
+        "coherence": 51.2,
+        "firing_rate": 27.5442304251
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 0.0,
+        "firing_rate": 37.8178588842
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 3.2,
+        "firing_rate": 36.0756294232
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 6.4,
+        "firing_rate": 38.4960754833
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 12.8,
+        "firing_rate": 31.2421028491
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 25.6,
+        "firing_rate": 27.0994763722
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -60,
+        "coherence": 51.2,
+        "firing_rate": 27.8371555374
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 0.0,
+        "firing_rate": 37.8626692456
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 3.2,
+        "firing_rate": 35.2618508867
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 6.4,
+        "firing_rate": 35.2250005049
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 12.8,
+        "firing_rate": 29.1523049649
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 25.6,
+        "firing_rate": 28.0553221978
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -40,
+        "coherence": 51.2,
+        "firing_rate": 27.4957625592
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 0.0,
+        "firing_rate": 35.8800773694
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 3.2,
+        "firing_rate": 34.9845201238
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 6.4,
+        "firing_rate": 34.2941079289
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 12.8,
+        "firing_rate": 28.8572631065
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 25.6,
+        "firing_rate": 27.6470588235
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": -20,
+        "coherence": 51.2,
+        "firing_rate": 26.7883724699
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 0.0,
+        "firing_rate": 34.912959381
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 3.2,
+        "firing_rate": 32.5851393189
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 6.4,
+        "firing_rate": 32.8856784499
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 12.8,
+        "firing_rate": 27.726905303
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 25.6,
+        "firing_rate": 25.3431372549
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 0,
+        "coherence": 51.2,
+        "firing_rate": 25.5329457364
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 0.0,
+        "firing_rate": 32.9787234043
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 3.2,
+        "firing_rate": 31.73374613
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 6.4,
+        "firing_rate": 30.7493540052
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 12.8,
+        "firing_rate": 25.9958071279
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 25.6,
+        "firing_rate": 25.0490196078
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 20,
+        "coherence": 51.2,
+        "firing_rate": 23.8856589147
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 0.0,
+        "firing_rate": 32.833655706
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 3.2,
+        "firing_rate": 34.6749226006
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 6.4,
+        "firing_rate": 31.65374677
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 12.8,
+        "firing_rate": 28.7211740042
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 25.6,
+        "firing_rate": 28.3333333333
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 40,
+        "coherence": 51.2,
+        "firing_rate": 28.003875969
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 0.0,
+        "firing_rate": 30.9477756286
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 3.2,
+        "firing_rate": 34.520123839
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 6.4,
+        "firing_rate": 30.9431524548
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 12.8,
+        "firing_rate": 30.9224318658
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 25.6,
+        "firing_rate": 29.1666666667
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 60,
+        "coherence": 51.2,
+        "firing_rate": 29.8449612403
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 0.0,
+        "firing_rate": 24.7098646035
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 3.2,
+        "firing_rate": 27.0897832817
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 6.4,
+        "firing_rate": 27.7777777778
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 12.8,
+        "firing_rate": 27.6729559748
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 25.6,
+        "firing_rate": 26.2254901961
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 80,
+        "coherence": 51.2,
+        "firing_rate": 27.4709302326
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 0.0,
+        "firing_rate": 25.8704061896
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 3.2,
+        "firing_rate": 26.7027863777
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 6.4,
+        "firing_rate": 27.1963824289
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 12.8,
+        "firing_rate": 27.463312369
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 25.6,
+        "firing_rate": 28.1862745098
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 100,
+        "coherence": 51.2,
+        "firing_rate": 29.1666666667
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 0.0,
+        "firing_rate": 28.3849129594
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 3.2,
+        "firing_rate": 30.959752322
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 6.4,
+        "firing_rate": 28.2945736434
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 12.8,
+        "firing_rate": 29.4549266247
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 25.6,
+        "firing_rate": 31.9117647059
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 120,
+        "coherence": 51.2,
+        "firing_rate": 32.2189922481
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 0.0,
+        "firing_rate": 27.3694390716
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 3.2,
+        "firing_rate": 29.6439628483
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 6.4,
+        "firing_rate": 29.0697674419
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 12.8,
+        "firing_rate": 30.2410901468
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 25.6,
+        "firing_rate": 30.2450980392
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 140,
+        "coherence": 51.2,
+        "firing_rate": 32.4612403101
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 0.0,
+        "firing_rate": 27.9013539652
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 3.2,
+        "firing_rate": 30.2631578947
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 6.4,
+        "firing_rate": 30.6201550388
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 12.8,
+        "firing_rate": 30.1362683438
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 25.6,
+        "firing_rate": 29.8039215686
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 160,
+        "coherence": 51.2,
+        "firing_rate": 33.1395348837
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 0.0,
+        "firing_rate": 29.9323017408
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 3.2,
+        "firing_rate": 32.6625386997
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 6.4,
+        "firing_rate": 29.6511627907
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 12.8,
+        "firing_rate": 28.9832285115
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 25.6,
+        "firing_rate": 30.4411764706
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 180,
+        "coherence": 51.2,
+        "firing_rate": 32.9457364341
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 0.0,
+        "firing_rate": 29.7388781431
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 3.2,
+        "firing_rate": 29.7213622291
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 6.4,
+        "firing_rate": 29.0051679587
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 12.8,
+        "firing_rate": 28.4067085954
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 25.6,
+        "firing_rate": 29.9509803922
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 200,
+        "coherence": 51.2,
+        "firing_rate": 31.2984496124
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 0.0,
+        "firing_rate": 27.5628626692
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 3.2,
+        "firing_rate": 29.6439628483
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 6.4,
+        "firing_rate": 29.0697674419
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 12.8,
+        "firing_rate": 27.1488469602
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 25.6,
+        "firing_rate": 27.5490196078
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 220,
+        "coherence": 51.2,
+        "firing_rate": 30.1356589147
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 0.0,
+        "firing_rate": 28.6750483559
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 3.2,
+        "firing_rate": 29.5665634675
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 6.4,
+        "firing_rate": 29.8449612403
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 12.8,
+        "firing_rate": 26.9916142558
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 25.6,
+        "firing_rate": 27.8921568627
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 240,
+        "coherence": 51.2,
+        "firing_rate": 30.2810077519
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 0.0,
+        "firing_rate": 28.8201160542
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 3.2,
+        "firing_rate": 26.8575851393
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 6.4,
+        "firing_rate": 29.9095607235
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 12.8,
+        "firing_rate": 28.1446540881
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 25.6,
+        "firing_rate": 28.5784313725
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 260,
+        "coherence": 51.2,
+        "firing_rate": 31.1046511628
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 0.0,
+        "firing_rate": 28.6750483559
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 3.2,
+        "firing_rate": 30.4953560372
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 6.4,
+        "firing_rate": 27.5839793282
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 12.8,
+        "firing_rate": 28.5115303983
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 25.6,
+        "firing_rate": 26.4705882353
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 280,
+        "coherence": 51.2,
+        "firing_rate": 30.8139534884
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 0.0,
+        "firing_rate": 28.3849129594
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 3.2,
+        "firing_rate": 33.2817337461
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 6.4,
+        "firing_rate": 27.5839793282
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 12.8,
+        "firing_rate": 28.5115303983
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 25.6,
+        "firing_rate": 27.0098039216
+    },
+    {
+        "align": "sacc",
+        "choice": "T2",
+        "time": 300,
+        "coherence": 51.2,
+        "firing_rate": 30.9593023256
+    }
+]

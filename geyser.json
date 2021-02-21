@@ -1,0 +1,1362 @@
+[
+    {
+        "duration": 3.6,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 3.333,
+        "waiting": 74,
+        "kind": "long"
+    },
+    {
+        "duration": 2.283,
+        "waiting": 62,
+        "kind": "short"
+    },
+    {
+        "duration": 4.533,
+        "waiting": 85,
+        "kind": "long"
+    },
+    {
+        "duration": 2.883,
+        "waiting": 55,
+        "kind": "short"
+    },
+    {
+        "duration": 4.7,
+        "waiting": 88,
+        "kind": "long"
+    },
+    {
+        "duration": 3.6,
+        "waiting": 85,
+        "kind": "long"
+    },
+    {
+        "duration": 1.95,
+        "waiting": 51,
+        "kind": "short"
+    },
+    {
+        "duration": 4.35,
+        "waiting": 85,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8330000000000002,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 3.917,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 4.2,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 1.75,
+        "waiting": 47,
+        "kind": "short"
+    },
+    {
+        "duration": 4.7,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 2.167,
+        "waiting": 52,
+        "kind": "short"
+    },
+    {
+        "duration": 1.75,
+        "waiting": 62,
+        "kind": "short"
+    },
+    {
+        "duration": 4.8,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 1.6,
+        "waiting": 52,
+        "kind": "short"
+    },
+    {
+        "duration": 4.25,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8,
+        "waiting": 51,
+        "kind": "short"
+    },
+    {
+        "duration": 1.75,
+        "waiting": 47,
+        "kind": "short"
+    },
+    {
+        "duration": 3.45,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 3.0669999999999997,
+        "waiting": 69,
+        "kind": "long"
+    },
+    {
+        "duration": 4.533,
+        "waiting": 74,
+        "kind": "long"
+    },
+    {
+        "duration": 3.6,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 1.9669999999999999,
+        "waiting": 55,
+        "kind": "short"
+    },
+    {
+        "duration": 4.083,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 3.85,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 4.433,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 4.3,
+        "waiting": 73,
+        "kind": "long"
+    },
+    {
+        "duration": 4.467,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 3.367,
+        "waiting": 66,
+        "kind": "short"
+    },
+    {
+        "duration": 4.033,
+        "waiting": 80,
+        "kind": "long"
+    },
+    {
+        "duration": 3.833,
+        "waiting": 74,
+        "kind": "long"
+    },
+    {
+        "duration": 2.017,
+        "waiting": 52,
+        "kind": "short"
+    },
+    {
+        "duration": 1.867,
+        "waiting": 48,
+        "kind": "short"
+    },
+    {
+        "duration": 4.833,
+        "waiting": 80,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8330000000000002,
+        "waiting": 59,
+        "kind": "short"
+    },
+    {
+        "duration": 4.783,
+        "waiting": 90,
+        "kind": "long"
+    },
+    {
+        "duration": 4.35,
+        "waiting": 80,
+        "kind": "long"
+    },
+    {
+        "duration": 1.883,
+        "waiting": 58,
+        "kind": "short"
+    },
+    {
+        "duration": 4.567,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 1.75,
+        "waiting": 58,
+        "kind": "short"
+    },
+    {
+        "duration": 4.533,
+        "waiting": 73,
+        "kind": "long"
+    },
+    {
+        "duration": 3.3169999999999997,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 3.833,
+        "waiting": 64,
+        "kind": "short"
+    },
+    {
+        "duration": 2.1,
+        "waiting": 53,
+        "kind": "short"
+    },
+    {
+        "duration": 4.633,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 2.0,
+        "waiting": 59,
+        "kind": "short"
+    },
+    {
+        "duration": 4.8,
+        "waiting": 75,
+        "kind": "long"
+    },
+    {
+        "duration": 4.716,
+        "waiting": 90,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8330000000000002,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 4.833,
+        "waiting": 80,
+        "kind": "long"
+    },
+    {
+        "duration": 1.733,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 4.883,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 3.717,
+        "waiting": 71,
+        "kind": "long"
+    },
+    {
+        "duration": 1.6669999999999998,
+        "waiting": 64,
+        "kind": "short"
+    },
+    {
+        "duration": 4.567,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 4.317,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 2.233,
+        "waiting": 59,
+        "kind": "short"
+    },
+    {
+        "duration": 4.5,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 1.75,
+        "waiting": 48,
+        "kind": "short"
+    },
+    {
+        "duration": 4.8,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 1.817,
+        "waiting": 60,
+        "kind": "short"
+    },
+    {
+        "duration": 4.4,
+        "waiting": 92,
+        "kind": "long"
+    },
+    {
+        "duration": 4.167,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 4.7,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 2.0669999999999997,
+        "waiting": 65,
+        "kind": "short"
+    },
+    {
+        "duration": 4.7,
+        "waiting": 73,
+        "kind": "long"
+    },
+    {
+        "duration": 4.033,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 1.9669999999999999,
+        "waiting": 56,
+        "kind": "short"
+    },
+    {
+        "duration": 4.5,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 4.0,
+        "waiting": 71,
+        "kind": "long"
+    },
+    {
+        "duration": 1.983,
+        "waiting": 62,
+        "kind": "short"
+    },
+    {
+        "duration": 5.067,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 2.017,
+        "waiting": 60,
+        "kind": "short"
+    },
+    {
+        "duration": 4.567,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 3.883,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 3.6,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 4.133,
+        "waiting": 75,
+        "kind": "long"
+    },
+    {
+        "duration": 4.333,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 4.1,
+        "waiting": 70,
+        "kind": "long"
+    },
+    {
+        "duration": 2.633,
+        "waiting": 65,
+        "kind": "short"
+    },
+    {
+        "duration": 4.067,
+        "waiting": 73,
+        "kind": "long"
+    },
+    {
+        "duration": 4.933,
+        "waiting": 88,
+        "kind": "long"
+    },
+    {
+        "duration": 3.95,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 4.5169999999999995,
+        "waiting": 80,
+        "kind": "long"
+    },
+    {
+        "duration": 2.167,
+        "waiting": 48,
+        "kind": "short"
+    },
+    {
+        "duration": 4.0,
+        "waiting": 86,
+        "kind": "long"
+    },
+    {
+        "duration": 2.2,
+        "waiting": 60,
+        "kind": "short"
+    },
+    {
+        "duration": 4.333,
+        "waiting": 90,
+        "kind": "long"
+    },
+    {
+        "duration": 1.867,
+        "waiting": 50,
+        "kind": "short"
+    },
+    {
+        "duration": 4.817,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8330000000000002,
+        "waiting": 63,
+        "kind": "short"
+    },
+    {
+        "duration": 4.3,
+        "waiting": 72,
+        "kind": "long"
+    },
+    {
+        "duration": 4.667,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 3.75,
+        "waiting": 75,
+        "kind": "long"
+    },
+    {
+        "duration": 1.867,
+        "waiting": 51,
+        "kind": "short"
+    },
+    {
+        "duration": 4.9,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 2.483,
+        "waiting": 62,
+        "kind": "short"
+    },
+    {
+        "duration": 4.367,
+        "waiting": 88,
+        "kind": "long"
+    },
+    {
+        "duration": 2.1,
+        "waiting": 49,
+        "kind": "short"
+    },
+    {
+        "duration": 4.5,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 4.05,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 1.867,
+        "waiting": 47,
+        "kind": "short"
+    },
+    {
+        "duration": 4.7,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 1.7830000000000001,
+        "waiting": 52,
+        "kind": "short"
+    },
+    {
+        "duration": 4.85,
+        "waiting": 86,
+        "kind": "long"
+    },
+    {
+        "duration": 3.6830000000000003,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 4.7330000000000005,
+        "waiting": 75,
+        "kind": "long"
+    },
+    {
+        "duration": 2.3,
+        "waiting": 59,
+        "kind": "short"
+    },
+    {
+        "duration": 4.9,
+        "waiting": 89,
+        "kind": "long"
+    },
+    {
+        "duration": 4.417,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 1.7,
+        "waiting": 59,
+        "kind": "short"
+    },
+    {
+        "duration": 4.633,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 2.3169999999999997,
+        "waiting": 50,
+        "kind": "short"
+    },
+    {
+        "duration": 4.6,
+        "waiting": 85,
+        "kind": "long"
+    },
+    {
+        "duration": 1.817,
+        "waiting": 59,
+        "kind": "short"
+    },
+    {
+        "duration": 4.417,
+        "waiting": 87,
+        "kind": "long"
+    },
+    {
+        "duration": 2.617,
+        "waiting": 53,
+        "kind": "short"
+    },
+    {
+        "duration": 4.067,
+        "waiting": 69,
+        "kind": "long"
+    },
+    {
+        "duration": 4.25,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 1.9669999999999999,
+        "waiting": 56,
+        "kind": "short"
+    },
+    {
+        "duration": 4.6,
+        "waiting": 88,
+        "kind": "long"
+    },
+    {
+        "duration": 3.767,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 1.9169999999999998,
+        "waiting": 45,
+        "kind": "short"
+    },
+    {
+        "duration": 4.5,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 2.267,
+        "waiting": 55,
+        "kind": "short"
+    },
+    {
+        "duration": 4.65,
+        "waiting": 90,
+        "kind": "long"
+    },
+    {
+        "duration": 1.867,
+        "waiting": 45,
+        "kind": "short"
+    },
+    {
+        "duration": 4.167,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 2.8,
+        "waiting": 56,
+        "kind": "short"
+    },
+    {
+        "duration": 4.333,
+        "waiting": 89,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8330000000000002,
+        "waiting": 46,
+        "kind": "short"
+    },
+    {
+        "duration": 4.383,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 1.883,
+        "waiting": 51,
+        "kind": "short"
+    },
+    {
+        "duration": 4.933,
+        "waiting": 86,
+        "kind": "long"
+    },
+    {
+        "duration": 2.033,
+        "waiting": 53,
+        "kind": "short"
+    },
+    {
+        "duration": 3.733,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 4.2330000000000005,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 2.233,
+        "waiting": 60,
+        "kind": "short"
+    },
+    {
+        "duration": 4.533,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 4.817,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 4.333,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 1.983,
+        "waiting": 59,
+        "kind": "short"
+    },
+    {
+        "duration": 4.633,
+        "waiting": 80,
+        "kind": "long"
+    },
+    {
+        "duration": 2.017,
+        "waiting": 49,
+        "kind": "short"
+    },
+    {
+        "duration": 5.1,
+        "waiting": 96,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8,
+        "waiting": 53,
+        "kind": "short"
+    },
+    {
+        "duration": 5.033,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 4.0,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 2.4,
+        "waiting": 65,
+        "kind": "short"
+    },
+    {
+        "duration": 4.6,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 3.5669999999999997,
+        "waiting": 71,
+        "kind": "long"
+    },
+    {
+        "duration": 4.0,
+        "waiting": 70,
+        "kind": "long"
+    },
+    {
+        "duration": 4.5,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 4.083,
+        "waiting": 93,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8,
+        "waiting": 53,
+        "kind": "short"
+    },
+    {
+        "duration": 3.967,
+        "waiting": 89,
+        "kind": "long"
+    },
+    {
+        "duration": 2.2,
+        "waiting": 45,
+        "kind": "short"
+    },
+    {
+        "duration": 4.15,
+        "waiting": 86,
+        "kind": "long"
+    },
+    {
+        "duration": 2.0,
+        "waiting": 58,
+        "kind": "short"
+    },
+    {
+        "duration": 3.833,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 3.5,
+        "waiting": 66,
+        "kind": "short"
+    },
+    {
+        "duration": 4.583,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 2.367,
+        "waiting": 63,
+        "kind": "short"
+    },
+    {
+        "duration": 5.0,
+        "waiting": 88,
+        "kind": "long"
+    },
+    {
+        "duration": 1.933,
+        "waiting": 52,
+        "kind": "short"
+    },
+    {
+        "duration": 4.617,
+        "waiting": 93,
+        "kind": "long"
+    },
+    {
+        "duration": 1.9169999999999998,
+        "waiting": 49,
+        "kind": "short"
+    },
+    {
+        "duration": 2.083,
+        "waiting": 57,
+        "kind": "short"
+    },
+    {
+        "duration": 4.583,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 3.333,
+        "waiting": 68,
+        "kind": "long"
+    },
+    {
+        "duration": 4.167,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 4.333,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 4.5,
+        "waiting": 73,
+        "kind": "long"
+    },
+    {
+        "duration": 2.417,
+        "waiting": 50,
+        "kind": "short"
+    },
+    {
+        "duration": 4.0,
+        "waiting": 85,
+        "kind": "long"
+    },
+    {
+        "duration": 4.167,
+        "waiting": 74,
+        "kind": "long"
+    },
+    {
+        "duration": 1.883,
+        "waiting": 55,
+        "kind": "short"
+    },
+    {
+        "duration": 4.583,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 4.25,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 3.767,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 2.033,
+        "waiting": 51,
+        "kind": "short"
+    },
+    {
+        "duration": 4.433,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 4.083,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8330000000000002,
+        "waiting": 46,
+        "kind": "short"
+    },
+    {
+        "duration": 4.417,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 2.1830000000000003,
+        "waiting": 55,
+        "kind": "short"
+    },
+    {
+        "duration": 4.8,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 1.8330000000000002,
+        "waiting": 57,
+        "kind": "short"
+    },
+    {
+        "duration": 4.8,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 4.1,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 3.966,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 4.2330000000000005,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 3.5,
+        "waiting": 87,
+        "kind": "long"
+    },
+    {
+        "duration": 4.3660000000000005,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 2.25,
+        "waiting": 51,
+        "kind": "short"
+    },
+    {
+        "duration": 4.667,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 2.1,
+        "waiting": 60,
+        "kind": "short"
+    },
+    {
+        "duration": 4.35,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 4.133,
+        "waiting": 91,
+        "kind": "long"
+    },
+    {
+        "duration": 1.867,
+        "waiting": 53,
+        "kind": "short"
+    },
+    {
+        "duration": 4.6,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 1.7830000000000001,
+        "waiting": 46,
+        "kind": "short"
+    },
+    {
+        "duration": 4.367,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 3.85,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 1.933,
+        "waiting": 49,
+        "kind": "short"
+    },
+    {
+        "duration": 4.5,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 2.383,
+        "waiting": 71,
+        "kind": "long"
+    },
+    {
+        "duration": 4.7,
+        "waiting": 80,
+        "kind": "long"
+    },
+    {
+        "duration": 1.867,
+        "waiting": 49,
+        "kind": "short"
+    },
+    {
+        "duration": 3.833,
+        "waiting": 75,
+        "kind": "long"
+    },
+    {
+        "duration": 3.417,
+        "waiting": 64,
+        "kind": "short"
+    },
+    {
+        "duration": 4.2330000000000005,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 2.4,
+        "waiting": 53,
+        "kind": "short"
+    },
+    {
+        "duration": 4.8,
+        "waiting": 94,
+        "kind": "long"
+    },
+    {
+        "duration": 2.0,
+        "waiting": 55,
+        "kind": "short"
+    },
+    {
+        "duration": 4.15,
+        "waiting": 76,
+        "kind": "long"
+    },
+    {
+        "duration": 1.867,
+        "waiting": 50,
+        "kind": "short"
+    },
+    {
+        "duration": 4.2669999999999995,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 1.75,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 4.4830000000000005,
+        "waiting": 75,
+        "kind": "long"
+    },
+    {
+        "duration": 4.0,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 4.117,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 4.083,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 4.2669999999999995,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 3.917,
+        "waiting": 70,
+        "kind": "long"
+    },
+    {
+        "duration": 4.55,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 4.083,
+        "waiting": 70,
+        "kind": "long"
+    },
+    {
+        "duration": 2.417,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 4.183,
+        "waiting": 86,
+        "kind": "long"
+    },
+    {
+        "duration": 2.217,
+        "waiting": 50,
+        "kind": "short"
+    },
+    {
+        "duration": 4.45,
+        "waiting": 90,
+        "kind": "long"
+    },
+    {
+        "duration": 1.883,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 1.85,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 4.283,
+        "waiting": 77,
+        "kind": "long"
+    },
+    {
+        "duration": 3.95,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 2.333,
+        "waiting": 64,
+        "kind": "short"
+    },
+    {
+        "duration": 4.15,
+        "waiting": 75,
+        "kind": "long"
+    },
+    {
+        "duration": 2.35,
+        "waiting": 47,
+        "kind": "short"
+    },
+    {
+        "duration": 4.933,
+        "waiting": 86,
+        "kind": "long"
+    },
+    {
+        "duration": 2.9,
+        "waiting": 63,
+        "kind": "short"
+    },
+    {
+        "duration": 4.583,
+        "waiting": 85,
+        "kind": "long"
+    },
+    {
+        "duration": 3.833,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 2.083,
+        "waiting": 57,
+        "kind": "short"
+    },
+    {
+        "duration": 4.367,
+        "waiting": 82,
+        "kind": "long"
+    },
+    {
+        "duration": 2.133,
+        "waiting": 67,
+        "kind": "short"
+    },
+    {
+        "duration": 4.35,
+        "waiting": 74,
+        "kind": "long"
+    },
+    {
+        "duration": 2.2,
+        "waiting": 54,
+        "kind": "short"
+    },
+    {
+        "duration": 4.45,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 3.5669999999999997,
+        "waiting": 73,
+        "kind": "long"
+    },
+    {
+        "duration": 4.5,
+        "waiting": 73,
+        "kind": "long"
+    },
+    {
+        "duration": 4.15,
+        "waiting": 88,
+        "kind": "long"
+    },
+    {
+        "duration": 3.8169999999999997,
+        "waiting": 80,
+        "kind": "long"
+    },
+    {
+        "duration": 3.917,
+        "waiting": 71,
+        "kind": "long"
+    },
+    {
+        "duration": 4.45,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 2.0,
+        "waiting": 56,
+        "kind": "short"
+    },
+    {
+        "duration": 4.283,
+        "waiting": 79,
+        "kind": "long"
+    },
+    {
+        "duration": 4.7669999999999995,
+        "waiting": 78,
+        "kind": "long"
+    },
+    {
+        "duration": 4.533,
+        "waiting": 84,
+        "kind": "long"
+    },
+    {
+        "duration": 1.85,
+        "waiting": 58,
+        "kind": "short"
+    },
+    {
+        "duration": 4.25,
+        "waiting": 83,
+        "kind": "long"
+    },
+    {
+        "duration": 1.983,
+        "waiting": 43,
+        "kind": "short"
+    },
+    {
+        "duration": 2.25,
+        "waiting": 60,
+        "kind": "short"
+    },
+    {
+        "duration": 4.75,
+        "waiting": 75,
+        "kind": "long"
+    },
+    {
+        "duration": 4.117,
+        "waiting": 81,
+        "kind": "long"
+    },
+    {
+        "duration": 2.15,
+        "waiting": 46,
+        "kind": "short"
+    },
+    {
+        "duration": 4.417,
+        "waiting": 90,
+        "kind": "long"
+    },
+    {
+        "duration": 1.817,
+        "waiting": 46,
+        "kind": "short"
+    },
+    {
+        "duration": 4.467,
+        "waiting": 74,
+        "kind": "long"
+    }
+]
